@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc Vu</h1>
-<h3 align="center">A student at NYU who is passionate about developing machine learning models and statistical frameworks for causal inference</h3>
+<h3 align="center">A PhD student in Biostatistics at Harvard</h3>
 
 - 🌱 I’m currently learning **Targeted Learning**
 
